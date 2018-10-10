@@ -1,0 +1,360 @@
+eclipse
+exit()
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+update
+eclipse
+exit
+eclipse
+update
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+import java.time.format.DateTimeFormatter
+import scala.collection.mutable.Buffer
+import java.time.LocalDate
+import scala.concurrent.Future
+import scala.util.{Success, Failure}
+import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.Await
+import scala.concurrent.duration._
+console
+exit
+console
+update
+eclipse
+:q
+exit
+update
+exit
+update
+exit
+update
+eclipse
+:q
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+run 2018-05-01 2018-05-01
+sbt update
+update
+exit
+refresh
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+val abc = """= {"time":"2018-05-02 06:28:37.670","logid":1006,"seq":22811,"user_s":{"GoodsList":"317,302,9,1,120,176,12306,12311","ShopGroupType":"TradingPost","TabType":"TradingPost","ShopAlias":"TradingPost"},"user_n":{"px_one_good":266,"px_allgoods":1330,"n_GoodsList":8,"px_window":969},"info":{"uid":"DB00C61E-520C-43EC-A27B-6475D8208AC7","oauth":"google","ulv":40,"os":"Android","osver":"6.0.1","did":"29f119dd-e0c9-4363-ba6d-4e3627498e0c","md":"Xiaomi Redmi 4","ctver":"Live3_0.0.262.279","country":"ID","store":"google","appid":"17647e09-decf-70ed-75a6-17bb7e607b3b"},"custom":{"nm":"Tab","category":"shop"},"game":"al","__tm":"2018-05-01 23:29:37.259","__ts":1525217377259,"timezone":"Asia/Jakarta"}"""
+val abc = """{"time":"2018-05-02 06:28:37.670","logid":1006,"seq":22811,"user_s":{"GoodsList":"317,302,9,1,120,176,12306,12311","ShopGroupType":"TradingPost","TabType":"TradingPost","ShopAlias":"TradingPost"},"user_n":{"px_one_good":266,"px_allgoods":1330,"n_GoodsList":8,"px_window":969},"info":{"uid":"DB00C61E-520C-43EC-A27B-6475D8208AC7","oauth":"google","ulv":40,"os":"Android","osver":"6.0.1","did":"29f119dd-e0c9-4363-ba6d-4e3627498e0c","md":"Xiaomi Redmi 4","ctver":"Live3_0.0.262.279","country":"ID","store":"google","appid":"17647e09-decf-70ed-75a6-17bb7e607b3b"},"custom":{"nm":"Tab","category":"shop"},"game":"al","__tm":"2018-05-01 23:29:37.259","__ts":1525217377259,"timezone":"Asia/Jakarta"}"""
+val abc= {"time":"2018-05-02 06:28:37.670","logid":1006,"seq":22811,"user_s":{"GoodsList":"317,302,9,1,120,176,12306,12311","ShopGroupType":"TradingPost","TabType":"TradingPost","ShopAlias":"TradingPost"},"user_n":{"px_one_good":266,"px_allgoods":1330,"n_GoodsList":8,"px_window":969},"info":{"uid":"DB00C61E-520C-43EC-A27B-6475D8208AC7","oauth":"google","ulv":40,"os":"Android","osver":"6.0.1","did":"29f119dd-e0c9-4363-ba6d-4e3627498e0c","md":"Xiaomi Redmi 4","ctver":"Live3_0.0.262.279","country":"ID","store":"google","appid":"17647e09-decf-70ed-75a6-17bb7e607b3b"},"custom":{"nm":"Tab","category":"shop"},"game":"al","__tm":"2018-05-01 23:29:37.259","__ts":1525217377259,"timezone":"Asia/Jakarta"}"""
+val abc= """{"time":"2018-05-02 06:28:37.670","logid":1006,"seq":22811,"user_s":{"GoodsList":"317,302,9,1,120,176,12306,12311","ShopGroupType":"TradingPost","TabType":"TradingPost","ShopAlias":"TradingPost"},"user_n":{"px_one_good":266,"px_allgoods":1330,"n_GoodsList":8,"px_window":969},"info":{"uid":"DB00C61E-520C-43EC-A27B-6475D8208AC7","oauth":"google","ulv":40,"os":"Android","osver":"6.0.1","did":"29f119dd-e0c9-4363-ba6d-4e3627498e0c","md":"Xiaomi Redmi 4","ctver":"Live3_0.0.262.279","country":"ID","store":"google","appid":"17647e09-decf-70ed-75a6-17bb7e607b3b"},"custom":{"nm":"Tab","category":"shop"},"game":"al","__tm":"2018-05-01 23:29:37.259","__ts":1525217377259,"timezone":"Asia/Jakarta"}"""
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+clientRepo
+console
+val clientRepo = collection.parallel.mutable.ParMap[String,scala.collection.mutable.ArrayBuffer[String]]()
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+import com.amazonaws.services.s3.AmazonS3
+console
+exit
+eclipse
+console
+exit
+console
+exit
+console
+}
+ 
+ try {
+    val xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive);
+    XferMgrProgress.showTransferProgress(xfer);
+    XferMgrProgress.waitForCompletion(xfer);
+} catch ( var e:AmazonServiceException) {
+    System.err.println(e.getErrorMessage());
+    System.exit(1);
+}
+  try {
+    val xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive);
+    XferMgrProgress.showTransferProgress(xfer);
+    XferMgrProgress.waitForCompletion(xfer);
+    } 
+    catch ( var e:AmazonServiceException) {
+    System.err.println(e.getErrorMessage());
+    System.exit(1);
+   }
+try {
+    MultipleFileUpload xfer = xfer_mgr.uploadDirectory(bucket_name,
+            key_prefix, new File(dir_path), recursive);
+    XferMgrProgress.showTransferProgress(xfer);
+    XferMgrProgress.waitForCompletion(xfer)
+val xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive);
+val xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive)
+var xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive)
+var xfer:MultipleFileUpload = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive)
+TransferManager xfer_mgr = TransferManagerBuilder.standard().build()
+val xfer_mgr:TransferManager  = TransferManagerBuilder.standard().build()
+import com.amazonaws.AmazonServiceException;
+import com.amazonaws.services.s3.transfer.TransferManager;
+import com.amazonaws.services.s3.transfer.TransferManagerBuilder;
+import com.amazonaws.services.s3.transfer.Upload;
+import com.amazonaws.services.s3.transfer.MultipleFileUpload;
+console
+   }
+val xfer = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive)
+val xfer:MultipleFileUpload = xfer_mgr.uploadDirectory(bucket_name,key_prefix, new File(dir_path), recursive)
+xfer_mgr
+xfer_mgrxfer_mgr
+xfer_mgr
+val xfer:MultipleFileUpload = xfer_mgr.uploadDirectory(bucket_name,
+            key_prefix, new File(dir_path), recursive)
+key_prefix
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+eclipse
+console
+exit
+update
+refresh
+eclipse
+console
+exit
+run "2018-05-01" "2018-05-01"
+:q
+exit
+run "2018-05-01" "2018-05-01"
+exit
+run "2018-05-01" "2018-05-01"
+exit
+run "2018-05-01" "2018-05-01"
+exit
+run "2018-05-01" "2018-05-01"
+console
+exit
+console
+exit
+run "2018-05-01" "2018-05-01"
+console
+exit
+run "2018-05-01" "2018-05-01"
+exit
+run "2018-05-01" "2018-05-01"
+exit
+run "2018-05-15" "2018-05-16"
+exit
+run "2018-05-16" "2018-05-17"
+exit
+run "2018-05-17" "2018-05-18"
+exit
+run "2018-05-17" "2018-05-18"
+exit
+run "2018-05-17" "2018-05-18"
+console
+exit
+run "2018-05-17" "2018-05-18"
+exit
+run "2018-05-17" "2018-05-18"
+console
+exit
+run "2018-05-17" "2018-05-18"
+run "2018-05-15" "2018-05-16"
+exit()
+:q
+exit
+run "2018-05-15" "2018-05-16"
+:q
+exit
+run "2018-05-15" "2018-05-16"
+exit
+compile
+package
+assembly
+exit
+run "2018-05-15" "2018-05-16"
+exit
+run "2018-05-15" "2018-05-16"
+exit
+run "2018-05-15" "2018-05-16"
+console
+exit
+console
+exit
+console
+exit
+console
+exit
+run "2018-05-15" "2018-05-16"
+exit
+console
+run "2018-05-15" "2018-05-15"
+exit
+run "2018-05-15" "2018-05-15"
+exit
+run "2018-05-15" "2018-05-15"
+exit
+run "2018-05-15" "2018-05-15"
+exit
+run "2018-05-15" "2018-05-15"
+console
+exit
+run "2018-05-15" "2018-05-15"
+run "2018-05-15" "2018-05-16"
+exit
+console
+exit
+run "2018-05-15" "2018-05-15"
+run "2018-05-15" "2018-05-16"
+exit
+console
+exit
+update
+exit
+update
+console
+exclipse
+eclipse
+console
+exit
+console
+run "2018-06-13" "2018-06-13"
+exit
+compile
+package
+assemble
+assembly
+console
+assembly
+exit
+assembly
+exit
+assembly
+import org.scalamock.scalatest.MockFactory
+console
+exit
+assembly
+exit
+assembly
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+exit
+assembly
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+exit
+run "2018-06-16" "2018-06-16" "al_qa/mobile_al_qa" "an"
+assembly
+exit
+assembly
+exit
+run "2018-06-16" "2018-06-16" "al/mobile_al" "al"
+assembly
+exit
+run "2018-07-03" "2018-07-03" "al/mobile_al" "al"
+assembly
+exit
+assembly
+exit
+assembly
+exit
+console
+exit

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: awscala
+Implementation-Version: 0.6.3
+Specification-Vendor: com.github.seratch
+Specification-Title: awscala
+Implementation-Vendor-Id: com.github.seratch
+Specification-Version: 0.6.3
+Implementation-Vendor: com.github.seratch
+

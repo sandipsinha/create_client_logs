@@ -1,0 +1,4 @@
+src/main/resources/clientconfig.conf
+target/
+lib/
+src/test/

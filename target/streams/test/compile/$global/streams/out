@@ -1,0 +1,20 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ssinha/workspace/scalawdb/src/test/scala/FirstSpec.scala:9:5: not found: type VerboseErrors[0m
+[0m[[0m[31merror[0m] [0m[0m    VerboseErrors with CallLogging {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ssinha/workspace/scalawdb/src/test/scala/FirstSpec.scala:9:24: not found: type CallLogging[0m
+[0m[[0m[31merror[0m] [0m[0m    VerboseErrors with CallLogging {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ssinha/workspace/scalawdb/src/test/scala/FirstSpec.scala:13:35: overloaded method value expects with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (matcher: org.scalamock.function.FunctionAdapter2[String,String,Boolean])org.scalamock.handlers.CallHandler2[String,String,scala.collection.mutable.Buffer[String]] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (v1: org.scalamock.matchers.MockParameter[String],v2: org.scalamock.matchers.MockParameter[String])org.scalamock.handlers.CallHandler2[String,String,scala.collection.mutable.Buffer[String]][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to ()[0m
+[0m[[0m[31merror[0m] [0m[0m      (mockS3client.getallkeys _).expects().returning(s3keys)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ssinha/workspace/scalawdb/src/test/scala/FirstSpec.scala:14:30: not enough arguments for method getallkeys: (startDt: String, endDt: String)scala.collection.mutable.Buffer[String].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters startDt, endDt.[0m
+[0m[[0m[31merror[0m] [0m[0m      mockS3client.getallkeys() should be(s3keys)[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ssinha/workspace/scalawdb/src/test/scala/FirstSpec.scala:14:40: not found: value be[0m
+[0m[[0m[31merror[0m] [0m[0m      mockS3client.getallkeys() should be(s3keys)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

@@ -1,0 +1,126 @@
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: paranamer-2.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: httpcore-4.4.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: joda-time-2.9.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: commons-codec-1.10.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-sts-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-simpledb-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: jmespath-java-1.11.337.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-s3-1.11.337.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: play-json_2.11-2.3.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: joda-convert-2.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: awscala_2.11-0.6.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-sqs-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: json4s-jackson_2.11-3.2.11.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-kms-1.11.337.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: play-iteratees_2.11-2.3.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: json4s-core_2.11-3.2.11.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-iam-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: json4s-ast_2.11-3.2.11.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-core-1.11.337.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-stm_2.11-0.7.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: h2-1.4.197.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-emr-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: logback-classic-1.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: commons-lang3-3.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: play-functional_2.11-2.3.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-csv_2.11-1.3.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-redshift-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: play-datacommons_2.11-2.3.9.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: httpclient-4.5.5.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: ion-java-1.0.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: logback-core-1.2.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: slf4j-api-1.7.25.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: jackson-core-2.6.7.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: lift-json_2.11-3.2.0-M2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: jackson-dataformat-cbor-2.6.7.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: jackson-annotations-2.6.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: spray-json_2.11-1.3.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-ec2-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalikejdbc-interpolation-macro_2.11-3.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: jackson-databind-2.6.7.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalap-2.11.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalikejdbc-config_2.11-3.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: commons-dbcp2-2.2.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: commons-pool2-2.5.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: aws-java-sdk-dynamodb-1.11.285.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-parser-combinators_2.11-1.1.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: config-1.3.3.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: commons-logging-1.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalikejdbc_2.11-3.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library-2.11.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalikejdbc-interpolation_2.11-3.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scalikejdbc-core_2.11-3.2.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-reflect-2.11.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-compiler-2.11.2.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-xml_2.11-1.0.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/DEPENDENCIES' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-dynamodb/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-dynamodb/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-ec2/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-ec2/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-emr/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-emr/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-iam/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-iam/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-kms/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-kms/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-redshift/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-redshift/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-s3/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-s3/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-simpledb/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-simpledb/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-sqs/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-sqs/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-sts/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/aws-java-sdk-sts/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/jmespath-java/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.amazonaws/jmespath-java/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/joda-time/joda-time/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/joda-time/joda-time/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-dbcp2/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-dbcp2/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-lang3/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-lang3/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-pool2/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.commons/commons-pool2/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.joda/joda-convert/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.joda/joda-convert/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/software.amazon.ion/ion-java/pom.properties' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/software.amazon.ion/ion-java/pom.xml' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/services/com.fasterxml.jackson.core.JsonFactory' with strategy 'filterDistinctLines'[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'rootdoc.txt' with strategy 'concat'[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'concat' was applied to a file[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to 62 files[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'filterDistinctLines' was applied to a file[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /Users/ssinha/workspace/scalawdb/target/scala-2.11/scalawithdb-assembly-1.0.jar[0m

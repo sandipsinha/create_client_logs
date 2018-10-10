@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Lift Json
+Implementation-Version: 3.2.0-M2
+Built-By: matt
+Specification-Vendor: WorldWide Conferencing, LLC
+Specification-Title: Lift Json
+Implementation-Vendor-Id: net.liftweb
+Specification-Version: 3.2.0-M2
+Implementation-URL: http://www.liftweb.net
+Implementation-Vendor: WorldWide Conferencing, LLC
+Built-Time: 1505516513736
+

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scalikejdbc-core
+Implementation-Version: 3.2.2
+Specification-Vendor: org.scalikejdbc
+Specification-Title: scalikejdbc-core
+Implementation-Vendor-Id: org.scalikejdbc
+Specification-Version: 3.2.2
+Implementation-Vendor: org.scalikejdbc
+

@@ -1,0 +1,278 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources"/>
+  <classpathentry kind="src" path="src/test/scala"/>
+  <classpathentry kind="src" path="src/test/java"/>
+  <classpathentry kind="src" path="src/test/resources"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/srcs/scalikejdbc_2.11-3.2.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-3.2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/docs/scalikejdbc_2.11-3.2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/srcs/scalikejdbc-core_2.11-3.2.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-3.2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/docs/scalikejdbc-core_2.11-3.2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-dbcp2/srcs/commons-dbcp2-2.2.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-dbcp2/jars/commons-dbcp2-2.2.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.apache.commons/commons-dbcp2/docs/commons-dbcp2-2.2.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-pool2/srcs/commons-pool2-2.5.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-pool2/jars/commons-pool2-2.5.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.apache.commons/commons-pool2/docs/commons-pool2-2.5.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/commons-logging/commons-logging/srcs/commons-logging-1.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/commons-logging/commons-logging/docs/commons-logging-1.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.25-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.slf4j/slf4j-api/docs/slf4j-api-1.7.25-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.1.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.1.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/docs/scala-parser-combinators_2.11-1.1.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/srcs/scalikejdbc-interpolation_2.11-3.2.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/jars/scalikejdbc-interpolation_2.11-3.2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/docs/scalikejdbc-interpolation_2.11-3.2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation-macro_2.11/srcs/scalikejdbc-interpolation-macro_2.11-3.2.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation-macro_2.11/jars/scalikejdbc-interpolation-macro_2.11-3.2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation-macro_2.11/docs/scalikejdbc-interpolation-macro_2.11-3.2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-config_2.11/srcs/scalikejdbc-config_2.11-3.2.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-config_2.11/jars/scalikejdbc-config_2.11-3.2.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalikejdbc/scalikejdbc-config_2.11/docs/scalikejdbc-config_2.11-3.2.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.typesafe/config/srcs/config-1.3.3-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.typesafe/config/bundles/config-1.3.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.typesafe/config/docs/config-1.3.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.h2database/h2/srcs/h2-1.4.197-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.h2database/h2/jars/h2-1.4.197.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.h2database/h2/docs/h2-1.4.197-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.2.3-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.2.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-classic/docs/logback-classic-1.2.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-core/srcs/logback-core-1.2.3-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.2.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/ch.qos.logback/logback-core/docs/logback-core-1.2.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/net.liftweb/lift-json_2.11/srcs/lift-json_2.11-3.2.0-M2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-3.2.0-M2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/net.liftweb/lift-json_2.11/docs/lift-json_2.11-3.2.0-M2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scala-lang/scalap/srcs/scalap-2.11.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.11.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scala-lang/scalap/docs/scalap-2.11.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.thoughtworks.paranamer/paranamer/srcs/paranamer-2.8-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.thoughtworks.paranamer/paranamer/bundles/paranamer-2.8.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.thoughtworks.paranamer/paranamer/docs/paranamer-2.8-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.3.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.typesafe.play/play-json_2.11/docs/play-json_2.11-2.3.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/srcs/play-iteratees_2.11-2.3.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.3.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/docs/play-iteratees_2.11-2.3.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scala-stm/scala-stm_2.11/srcs/scala-stm_2.11-0.7-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scala-stm/scala-stm_2.11/docs/scala-stm_2.11-0.7-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-functional_2.11/srcs/play-functional_2.11-2.3.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.typesafe.play/play-functional_2.11/docs/play-functional_2.11-2.3.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/srcs/play-datacommons_2.11-2.3.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.3.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/docs/play-datacommons_2.11-2.3.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/io.spray/spray-json_2.11/srcs/spray-json_2.11-1.3.3-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/io.spray/spray-json_2.11/docs/spray-json_2.11-1.3.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.github.seratch/awscala_2.11/srcs/awscala_2.11-0.6.3-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.github.seratch/awscala_2.11/jars/awscala_2.11-0.6.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.github.seratch/awscala_2.11/docs/awscala_2.11-0.6.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-iam/srcs/aws-java-sdk-iam-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-iam/jars/aws-java-sdk-iam-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-iam/docs/aws-java-sdk-iam-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/software.amazon.ion/ion-java/srcs/ion-java-1.0.2-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/software.amazon.ion/ion-java/bundles/ion-java-1.0.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/software.amazon.ion/ion-java/docs/ion-java-1.0.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.6.7.1-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.7.1.jar"/>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/srcs/jackson-annotations-2.6.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.6.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/docs/jackson-annotations-2.6.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/srcs/jackson-core-2.6.7-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.6.7.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/docs/jackson-core-2.6.7-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/srcs/jackson-dataformat-cbor-2.6.7-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/bundles/jackson-dataformat-cbor-2.6.7.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/docs/jackson-dataformat-cbor-2.6.7-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/joda-time/joda-time/srcs/joda-time-2.9.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/joda-time/joda-time/docs/joda-time-2.9.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sts/srcs/aws-java-sdk-sts-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sts/jars/aws-java-sdk-sts-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sts/docs/aws-java-sdk-sts-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/srcs/aws-java-sdk-ec2-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/jars/aws-java-sdk-ec2-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-ec2/docs/aws-java-sdk-ec2-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/srcs/aws-java-sdk-s3-1.11.337-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.337.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/docs/aws-java-sdk-s3-1.11.337-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-kms/srcs/aws-java-sdk-kms-1.11.337-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-kms/jars/aws-java-sdk-kms-1.11.337.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-kms/docs/aws-java-sdk-kms-1.11.337-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-core/srcs/aws-java-sdk-core-1.11.337-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.337.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-core/docs/aws-java-sdk-core-1.11.337-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpclient/srcs/httpclient-4.5.5-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpclient/docs/httpclient-4.5.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpcore/srcs/httpcore-4.4.9-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.9.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.apache.httpcomponents/httpcore/docs/httpcore-4.4.9-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/commons-codec/commons-codec/srcs/commons-codec-1.10-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/commons-codec/commons-codec/docs/commons-codec-1.10-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/jmespath-java/srcs/jmespath-java-1.11.337-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/jmespath-java/jars/jmespath-java-1.11.337.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/jmespath-java/docs/jmespath-java-1.11.337-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sqs/srcs/aws-java-sdk-sqs-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sqs/jars/aws-java-sdk-sqs-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-sqs/docs/aws-java-sdk-sqs-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-emr/srcs/aws-java-sdk-emr-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-emr/jars/aws-java-sdk-emr-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-emr/docs/aws-java-sdk-emr-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-redshift/srcs/aws-java-sdk-redshift-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-redshift/jars/aws-java-sdk-redshift-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-redshift/docs/aws-java-sdk-redshift-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-dynamodb/srcs/aws-java-sdk-dynamodb-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-dynamodb/jars/aws-java-sdk-dynamodb-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-dynamodb/docs/aws-java-sdk-dynamodb-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-simpledb/srcs/aws-java-sdk-simpledb-1.11.285-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-simpledb/jars/aws-java-sdk-simpledb-1.11.285.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.amazonaws/aws-java-sdk-simpledb/docs/aws-java-sdk-simpledb-1.11.285-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.joda/joda-convert/srcs/joda-convert-2.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-2.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.joda/joda-convert/docs/joda-convert-2.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.json4s/json4s-jackson_2.11/srcs/json4s-jackson_2.11-3.2.11-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.2.11.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.json4s/json4s-jackson_2.11/docs/json4s-jackson_2.11-3.2.11-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.json4s/json4s-core_2.11/srcs/json4s-core_2.11-3.2.11-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.11.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.json4s/json4s-core_2.11/docs/json4s-core_2.11-3.2.11-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.json4s/json4s-ast_2.11/srcs/json4s-ast_2.11-3.2.11-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.11.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.json4s/json4s-ast_2.11/docs/json4s-ast_2.11-3.2.11-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.0-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.apache.commons/commons-lang3/docs/commons-lang3-3.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/com.github.tototoshi/scala-csv_2.11/srcs/scala-csv_2.11-1.3.5-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/com.github.tototoshi/scala-csv_2.11/jars/scala-csv_2.11-1.3.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/com.github.tototoshi/scala-csv_2.11/docs/scala-csv_2.11-1.3.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalactic/scalactic_2.11/srcs/scalactic_2.11-3.0.5-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalactic/scalactic_2.11/docs/scalactic_2.11-3.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.5-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scalatest/scalatest_2.11/docs/scalatest_2.11-3.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.6-sources.jar" kind="lib" path="/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/ssinha/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/docs/scala-xml_2.11-1.0.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
